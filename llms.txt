@@ -1,0 +1,11 @@
+# RegistryReady
+
+RegistryReady is a free, browser-based validator and generator for official MCP Registry server.json metadata.
+
+## Tools and guides
+- / — Validate MCP server.json metadata.
+- /mcp-server-json-generator — Generate a minimal registry file.
+- /mcp-registry-publish-checklist — Prepare for mcp-publisher.
+- /mcp-remote-server-json — Configure remote server metadata.
+
+The tool checks the official 2025-12-11 schema reference, required metadata, packages, remotes, transports, version parity, secrets, local URLs, and the 4 KB registry limit. Input is processed locally.

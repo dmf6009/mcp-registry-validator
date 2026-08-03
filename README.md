@@ -7,3 +7,7 @@ A static, privacy-first validator and generator for MCP Registry `server.json` m
 - Custom domain: Cloudflare Worker proxy
 
 No build step is required. Deploy the repository root.
+
+Walkthrough: [Prepare `server.json` before publishing to the MCP Registry](https://guagua-alvin.top/guides/publish-mcp-registry-server)
+
+More MCP tools: <https://guagua-alvin.top/mcp-tools>
